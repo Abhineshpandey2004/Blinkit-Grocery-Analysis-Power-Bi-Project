@@ -1,1 +1,2 @@
 # Blinkit-Grocery-Analysis-Power-Bi-Project
+Overall, the data shows steady business performance supported by essential product categories and strong customer demand. Medium outlets and Tier 3 locations play a major role in total revenue. Low Fat items are clearly more preferred by customers. With the highest sales in 2018 and an average rating of 3.9, the business is performing well, but there is still room to improve product quality and customer experience
